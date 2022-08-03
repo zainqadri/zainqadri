@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @zainqadri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-zainqadri/zainqadri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Zain Qadri
+- 👀 I’m interested in Basketball, Finance, Trading, Data Sceince.
+- 🌱 I’m currently learning Python, Data Science, and other coding languages. 
+- 📖 I enjoy reading.
+- ✍️ I’m looking to work/collaborate on various projects. Depends on what it is, feel free to reach out to me. 
+- 📫 You can reach me at my Linkedin or Instagram. https://www.linkedin.com/in/zainqadri9.
