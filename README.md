@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python, Data Science, and other coding languages. 
 - 📖 I enjoy reading.
 - ✍️ I’m looking to work/collaborate on various projects. Depends on what it is, feel free to reach out to me. 
-- 📫 You can reach me at my Linkedin or Instagram. https://www.linkedin.com/in/zainqadri9.
+- 📫 You can reach me at my Linkedin. https://www.linkedin.com/in/zainqadri9.
